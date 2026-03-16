@@ -1,6 +1,6 @@
 Hi, I'm Andrew! `IT Support Specialist | Front-End Web Developer`
 
-👨‍💻 Personal IT Projects:
+👨‍💻 Information Technology Projects:
 ---
 ***VPN & Remote Access Configuration***
 
