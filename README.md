@@ -4,7 +4,9 @@ Hi, I'm Andrew! `IT Support Specialist | Front-End Web Developer`
 ---
 ***VPN & Remote Access Configuration***
 
-![Static Badge](https://img.shields.io/badge/Technologies-blue) : `Windows 11`, `OpenVPN`, `OpenSSH`, `RDP`, `Port Forwarding`, `Firewall Rules`
+![Static Badge](https://img.shields.io/badge/Technologies-blue)
+![Static Badge](https://img.shields.io/badge/Windows%2011--white") ![Static Badge](https://img.shields.io/badge/OpenVPN--yellow) ![Static Badge](https://img.shields.io/badge/OpenSSH--white) ![Static Badge](https://img.shields.io/badge/Remote%20Desktop%20Protocol--blue) ![Static Badge](https://img.shields.io/badge/Port%20Forwarding--purple) ![Static Badge](https://img.shields.io/badge/Firewall%20Rules--red)
+
 
 - Built and provisioned a system from scratch by installing the OS from bootable installation media and formatting the system drive to prepare the environment for remote access services.
 - Configured a secure Windows-based remote access environment by installing and hardening the operating system.
